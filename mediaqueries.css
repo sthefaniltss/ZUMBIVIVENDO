@@ -1,0 +1,476 @@
+@media only screen and (max-width:1759px){
+    .woman img{
+        width: 550px;
+    }
+    .game img{
+        width: 550px;
+    }
+    .texto3{
+        font-size: 15pt;
+        width: 45vw;
+        margin-left: 70px;
+    }
+    .texto4{
+        font-size: 15pt;
+        width: 45vw;
+        margin-right: 70px;
+    }
+    #midias{
+        width: 100vw;
+    }
+    #midias img{
+        width: 100%;
+    }
+    #linha2, #linha1 { display: none; }
+    
+}
+
+@media only screen and (max-width:1612px) {
+    .caixa{
+        
+        margin-left: 200px;
+        
+        
+        
+    }
+
+}
+
+@media only screen and (max-width:1530px) {
+    .caixa{
+        
+        font-size: 25pt;
+        
+    }
+
+    .caixa1{
+        
+        
+        margin-left: 70px;
+        
+        
+    }
+    .texto1 h3{
+        font-size: 30pt;
+        text-align: initial;
+        
+    }
+    nav{
+        min-width: 100vw;
+        
+    }
+    nav img{
+        margin: 60px;
+    }
+    
+    .woman img{
+        width: 450px;
+        
+    }
+    .caixa2{
+        margin-left: 30px;
+    }
+    .game img{
+        width: 450px;
+    }
+    .texto3, .texto4 {
+        font-size: 15pt;
+        
+        
+    }
+    
+
+}
+@media only screen and (max-width:1245px){
+    
+    .caixa{
+        
+        font-size: 20pt;
+        margin-left: 150px;
+        
+        
+    }
+    .texto1 h3{
+        font-size: 25pt;
+        text-align: initial;
+        
+    }
+    
+    nav img{
+        margin: 50px;
+        margin-bottom: 0;
+        width: 250px;
+    }
+    legend{
+        font-size: 13pt;
+        margin-top: 30px;
+        
+    }
+    .woman img{
+        width: 400px;
+        
+    }
+    
+    .game img{
+        width: 400px;
+    }
+    .texto3, .texto4 {
+        font-size: 13pt;
+        
+        
+    }
+    .texto4{
+        margin-left: 30px;
+    }
+    .texto6 p {
+        width:30vw;
+        text-align: justify;
+    }
+    .caixa5{
+        width:50vw;
+        
+    }
+
+
+}
+@media only screen and (max-width:1060px){
+    
+    .caixa{
+        
+        font-size: 20pt;
+        margin-left: 115px;
+        
+        
+    }
+    
+    nav img{
+        margin: 30px;
+        margin-bottom: 0;
+        width: 230px;
+    }
+    .texto2{
+        font-size: 15pt;
+    }
+    .woman img, .game img{
+        width: 350px;
+        border: 20px solid white;
+        
+    }
+    
+    .texto3{
+        font-size: 12pt;
+        margin-left: 25px;
+
+    }
+    
+    .texto4 {
+        font-size: 12pt;
+        margin-right: 25px;
+        
+        
+    }
+}
+@media only screen and (max-width:920px){
+    
+    .caixa{
+        
+        font-size: 16pt;
+        margin-left: 80px;
+        
+        
+    }
+    .texto1 h3{
+        font-size: 20pt;
+        text-align: initial;
+        
+    }
+    
+    nav img{
+        margin: 30px;
+        margin-bottom: 0;
+        width: 210px;
+    }
+    
+    
+    .texto2{
+        font-size: 14pt;
+    }
+    .titulo img{
+       
+        width: 650px;
+        
+    }
+    .caixa1{
+        width:30vw;
+    }
+    .caixa1 img{
+        width: 300px;
+        margin-top: 100px;
+    }
+    .caixa2{
+        display: flex;
+        flex-direction: column;
+        width: 100vw;
+        margin: 0;
+        
+    }
+    .caixa3{
+        display: flex;
+        flex-direction: column-reverse;
+        width: 100vw;
+        
+
+    }
+    .woman img, .game img{
+        width:500px;
+        border: 15px solid white;
+        margin-top: 50px;
+        margin-bottom: 45px;
+    }
+    
+    .texto3 {
+        margin-bottom: 30px;
+    }
+    .texto3, .texto4{
+        font-size: 13pt;
+        width: 70vw;
+    }
+    aside img{
+        width: 150px;
+    }
+    .caixa4{
+        width: 50vw;
+        margin-left: 50px;
+    }
+    .caixa5{
+        margin-left: 90px;
+    }
+    #linha2 { display: block; }
+    #linha3{
+        display: none;
+    }
+}
+
+@media only screen and (max-width:790px){
+
+    .titulo img{
+       
+        width: 550px;
+        
+    }
+    
+    nav{
+        display: block;
+        margin-left: 50px;
+        
+    }
+    nav img{
+        
+        width: 250px;
+    }
+    legend{
+        transform: translate(100px, -150px);
+        font-size:20pt;
+    }
+    
+    .caixa4{
+        width:80vw;
+        
+    }
+    .caixa5{
+        display: flex;
+        flex-direction: row;
+        transform: translate(-440px, 820px);
+        width: 40px;
+        height:1px;
+        
+    }
+    .caixa5 img{
+        margin: 15px;
+        width: 15vw;
+    }
+    #quarentena{
+        border-bottom: 130px solid #f2cb30;
+    }
+    .texto6 p{
+        width: 60vw;
+    }
+    
+    
+    
+    
+
+}
+@media only screen and (max-width:670px){
+    .caixa{
+        
+        font-size: 15pt;
+        margin-left: 50px;
+        
+        
+    }
+    .texto1 h3{
+        font-size: 17pt;
+        text-align: initial;
+        
+    }
+    
+    
+    
+    .texto2{
+        font-size: 12pt;
+    }
+    nav{
+        
+        margin-left: 70px;
+        
+    }
+    nav img{
+        
+        width: 200px;
+    }
+    legend{
+       margin-right:80px;
+        font-size:15pt;
+    }
+
+    .titulo img{
+        width: 70vw;
+    }
+    .caixa{
+        display: block;
+    }
+    .caixa1 img{
+        
+        width: 50vw;
+        margin-top: 100px;
+        margin-left: 40px;
+    }
+    .texto1{
+        width: 70vw;
+        font-size: 20pt;
+        margin-left: 40px;
+    }
+    .texto1 h3{
+        width: 70vw;
+        font-size: 25pt;
+        margin-bottom:20px;
+    }
+}
+
+@media only screen and (max-width:590px){
+
+    .texto1{
+        width: 70vw;
+        font-size: 15pt;
+        
+        margin-left: 20px;
+    }
+    .caixa1 img{
+        
+        width: 50vw;
+        margin-top: 50px;
+        margin-left: 0;
+    }
+    legend{
+        
+         font-size:12pt;
+     }
+     nav{
+        
+        margin-left: 30px;
+        
+    }
+    nav img{
+        width: 125px;
+        margin-left: 18px;
+    }
+    legend{
+        transform: translate(70px, -100px);
+        
+    }
+    .woman img, .game img{
+        width: 67vw;
+        border: 10px solid white;
+    }
+    .texto3, .texto4{
+        font-size: 10pt;
+        width: 65vw;
+    }
+
+    .form input{
+        width: 60vw;
+        border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+        
+    }
+    .form{
+        margin-top: 30px;
+        margin-bottom: 0;
+        margin-left: 70px;
+    }
+    .caixa5{
+        
+        transform: translate(-280px, 840px);
+        
+        
+    }
+    .texto6{
+        
+        font-size: 15pt;
+    }
+    .texto6 p{
+        width: 80vw;
+        text-align: center;
+        
+    }
+    .caixa5 img{
+        width: 100px;
+        margin-left:0; 
+    }
+    #linha1 { display: block; }
+    #linha2{
+        display: none;
+    }
+
+}
+@media only screen and (max-width:400px){
+    .texto2{
+        display: flex;
+        width: 100vw;
+        font-size: 11pt;
+        text-align: center;
+        justify-content: center;
+          
+    }
+    .texto1 h3{
+        width: 70vw;
+        font-size: 18pt;
+        margin-bottom:20px;
+    }
+    .texto1{
+        width: 70vw;
+        font-size: 15pt;
+        margin-left: 25px;
+        
+    }
+    .caixa{
+        
+       
+        margin-left: 25px;
+       
+        
+    }
+    
+    .caixa1 img{
+        
+        width: 200px;
+        margin-top: 100px;
+        margin-left:0;
+    }
+
+
+
+}
