@@ -253,13 +253,12 @@ aside img{
     margin-bottom: 40px;
 }
 
-#midias img{
-    width: 100%;
+#linha1{
+    display: none;
 }
 
-#linha1, #linha2{
+#linha2{
     display: none;
-
 }
 
 #linha3{
