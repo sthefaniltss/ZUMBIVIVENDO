@@ -168,6 +168,7 @@ legend{
 }
 
 #midias{
+    width: 100vw;
     border-top:12px solid #f2cb30;
     background-color: #f2cb30;
 }
@@ -251,9 +252,16 @@ button{
 aside img{
     margin-bottom: 40px;
 }
-#midias{
-    width: 100vw;
-}
+
 #midias img{
     width: 100%;
+}
+
+#linha1, #linha2{
+    display: none;
+
+}
+
+#linha3{
+    width:100vw;
 }
